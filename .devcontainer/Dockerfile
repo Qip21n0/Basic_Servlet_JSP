@@ -1,4 +1,4 @@
-# See here for image contents: https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/java-8/.devcontainer/base.Dockerfile
+# See here for image contents: https://github.com/microsoft/vscode-dev-containers/tree/v0.209.6/containers/java-8/.devcontainer/base.Dockerfile
 
 # [Choice] Debian OS version (use bullseye on local arm64/Apple Silicon): buster, bullseye
 ARG VARIANT="bullseye"
